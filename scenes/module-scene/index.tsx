@@ -49,7 +49,7 @@ export const ModuleScene = ({ moduleItems }: IModuleScene) => {
           </Grid>
         </Grid>
       </Grid>
-      <Grid item xs={12} md={6}>
+      <Grid item xs={12} md={5}>
         {moduleItems.map(item => (
           <>
             <div>{item.question}</div>
