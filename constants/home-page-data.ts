@@ -1,0 +1,58 @@
+export const featuredPosts = [
+  {
+    title: 'CSS3',
+    description: '#kim-kardashian { margin-bottom: 9999px; }',
+    image: '/css3-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/css',
+  },
+  {
+    title: 'HTML5',
+    description: 'Hey Too Much DIVs',
+    image: '/html5-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/html',
+  },
+  {
+    title: 'JS',
+    description: 'Code never lies, comments sometimes do',
+    image: '/js-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/js',
+  },
+  {
+    title: 'WEB',
+    description: 'Software is like cathedrals. First, we build them, then we pray',
+    image: '/global.svg',
+    imageText: 'Image Text',
+    linkToModule: '/web',
+  },
+  {
+    title: 'GIT',
+    description: 'GIT COMMIT => GIT PUSH => GIT REPEAD',
+    image: '/git-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/git',
+  },
+  {
+    title: 'REACT',
+    description: 'A JavaScript library for building user interfaces',
+    image: '/react-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/react',
+  },
+  {
+    title: 'REDUX',
+    description: 'A predictable state container for JavaScript apps',
+    image: '/redux-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/redux',
+  },
+  {
+    title: 'TS',
+    description: 'Typed JavaScript at Any Scale.',
+    image: '/ts-icon.svg',
+    imageText: 'Image Text',
+    linkToModule: '/ts',
+  },
+];
